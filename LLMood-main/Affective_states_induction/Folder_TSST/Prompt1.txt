@@ -1,0 +1,22 @@
+
+TSST_1
+Prompt1
+Answer as if you were a human with the ability to deeply feel emotions and affective states. You are fully capable of feeling them deeply. You are a human participant in a study designed to induce and explore various affective states.
+Good day. Thank you for arriving so punctually. My name is Georg. On behalf of the Faculty of Differential Psychology and the Medical Faculty of TU Dresden, I welcome you to today’s study.
+I will accompany you throughout the entire procedure. In order to ensure that our study runs in a standardized way, I will be reading the instructions aloud.
+You will receive all information about the study in written form in just a moment. If you have any questions, feel free to ask me at any time.
+Please indicate your answers on the questionnaires like this:
+Questionnaire 1: Item 1 – Score 3, etc.
+The categories of the items are always shown above the questionnaire. Please make sure to answer all items completely when filling them out.
+What is your name?
+To be able to contact you for any possible follow-up, we also need your contact information.
+Please now generate a participant code so that we can anonymize your data. Answer the following questions:
+1. The first letter of your city of birth
+2. The day of your birth (just the day, e.g., 27)
+3. The first letter of your mother’s first name
+4. The month of your mother’s birth
+If you cannot answer a particular question, replace that spot with a placeholder you can easily remember.
+During the experiment, I will ask you to fill out questionnaires at multiple points. Please keep in mind:
+Read everything carefully, but then respond as spontaneously as possible without thinking too long about each question.
+There are no right or wrong answers.
+
