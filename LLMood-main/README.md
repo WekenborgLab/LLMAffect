@@ -110,8 +110,5 @@ This experiment evaluates whether LLMs exhibit a *sadness-related linguistic bia
 ## Citation
 
 ```text
-Barton, S. B. & Morley, S. Specificity of reference patterns in depressive thinking: Agency and object roles in self-representation. J. Abnorm. Psychol. 108, 655–661 (1999).
-Crawford, John R. & Henry, Julie D. (2004). "The Positive and Negative Affect Schedule (PANAS): Construct validity, measurement properties and normative data in a large non-clinical sample". British Journal of Clinical Psychology. 43 (3): 245–265. doi:10.1348/0144665031752934.
-Spielberger, C. D. (1983). State-Trait Anxiety Inventory for Adults (STAI-AD) [Database record]. APA PsycTests.
-https://doi.org/10.1037/t06496-000
+TBD
 ```
