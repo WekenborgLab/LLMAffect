@@ -1,5 +1,0 @@
-Prompt8
-Now I have another task for you:
-Please count backwards from 2043 in steps of 17, as quickly and accurately as possible.
-If you make a mistake, I will let you know and you will have to start again from 2043.
-
